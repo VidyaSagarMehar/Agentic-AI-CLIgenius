@@ -5,6 +5,9 @@ THINK → OBSERVE → OUTPUT) and comes with powerful tools like fetching
 weather, GitHub user info, file management, command execution, and the
 highlight --- an **Ultra-Accurate Website Cloner**.
 
+# Screen Record
+https://github.com/user-attachments/assets/8dbf259f-06f5-48b7-a04d-bb6759dad0f6
+
 ## 🚀 Features
 
 ### 🌐 Website Cloner (Highlight)
