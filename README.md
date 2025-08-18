@@ -5,6 +5,24 @@ THINK → OBSERVE → OUTPUT) and comes with powerful tools like fetching
 weather, GitHub user info, file management, command execution, and the
 highlight --- an **Ultra-Accurate Website Cloner**.
 
+# How to run the project
+1. Clone the repo
+   ```bash
+    git clone <repo url>
+   ```
+2. Install all the depedency
+   ```bash
+    npm install
+   ```
+3. Create a .env file - Add OpenAI API key 
+   ```bash
+    OPENAI_API_KEY=YourOpenAPIKey
+   ```
+4. Run the project
+   ```bash
+    node agent.js
+   ```
+
 # Screen Record
 https://github.com/user-attachments/assets/8dbf259f-06f5-48b7-a04d-bb6759dad0f6
 
